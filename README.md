@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Aakash Sehgal
 
-I'm a Product Owner with a technical mindset and a passion for building thoughtful, data-informed solutions. I specialize in turning user problems into scalable digital products, often collaborating closely with engineers and designers to bring ideas to life. I come from a QA and technical background, which helps me bridge the gap between business goals and implementation.
+I'm a Product person with a technical mindset and a passion for building thoughtful, data-informed solutions. I specialize in turning user problems into scalable digital products, often collaborating closely with engineers and designers to bring ideas to life. I come from a QA and technical background, which helps me bridge the gap between business goals and implementation.
 
 Currently working in the EdTech space, I’ve led initiatives that replaced legacy systems, automated dashboards, and reduced operational overhead — all while maintaining focus on the end user.
 
